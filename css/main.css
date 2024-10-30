@@ -1,0 +1,70 @@
+#copytowechat-content {
+  margin: 0;
+  overflow-x: hidden;
+  font-family: "Source Sans Pro", "等距更纱黑体 SC", "Helvetica Neue", Arial, sans-serif !important;
+  line-height: 1.8rem;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+  color: #0a0a0d;
+  font-size: 16px;
+}
+#copytowechat-content p,
+#copytowechat-content blockquote,
+#copytowechat-content ul,
+#copytowechat-content ol,
+#copytowechat-content dl,
+#copytowechat-content table {
+  margin: 0.8em 0;
+}
+#copytowechat-content p {
+  word-spacing: 0.05rem;
+}
+#copytowechat-content h1,
+#copytowechat-content h2,
+#copytowechat-content h3,
+#copytowechat-content h4,
+#copytowechat-content h5,
+#copytowechat-content h6 {
+  color: #4ab3fe;
+}
+#copytowechat-content a {
+  padding: 0 2px;
+  font-weight: 500;
+  color: #0072d6;
+  text-decoration: none;
+}
+#copytowechat-content strong,
+#copytowechat-content b {
+  color: #fe3334;
+}
+#copytowechat-content hr {
+  box-sizing: content-box;
+  width: 50%;
+  height: 1px;
+  padding: 0;
+  margin: 46px auto 64px;
+  overflow: hidden;
+  background-color: #fe3334;
+}
+#copytowechat-content blockquote,
+#copytowechat-content pre {
+  background-color: #dad7c7;
+}
+#copytowechat-content blockquote::before {
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 1em;
+  content: "“";
+  color: #0072d6;
+}
+#copytowechat-content kbd {
+  display: inline-block;
+  border-radius: 3px;
+  padding: 0px 4px;
+  box-shadow: 1px 1px 1px #777;
+  margin: 2px;
+  font-size: small;
+  vertical-align: text-bottom;
+  background: steelblue;
+  color: #eee;
+}
